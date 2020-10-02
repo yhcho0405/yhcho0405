@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--
 
