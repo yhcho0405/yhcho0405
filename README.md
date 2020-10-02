@@ -1,7 +1,3 @@
-
-
-![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
@@ -14,6 +10,10 @@
 <p></p>
 <p></p>
 </p>
+
+![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+
 
 <!--
 
