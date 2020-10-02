@@ -1,4 +1,4 @@
-![yhcho0405's github stats](https://github-readme-stats.vercel.app/api?username=yhcho0405&show_icons=true&theme=tokyonight)
+![yhcho0405's github stats](https://github-readme-stats.vercel.app/api?username=yhcho0405&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh0405)](https://solved.ac/yh0405)
