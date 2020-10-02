@@ -3,6 +3,10 @@
 <!--
 **yhcho0405/yhcho0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh0405)](https://solved.ac/yh0405)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
