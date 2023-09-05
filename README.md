@@ -11,7 +11,7 @@
 <p></p>
 </p>
 
-![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![dino](https://github.com/yhcho0405/yhcho0405/assets/52823519/7020ca87-eab3-4958-94df-fcfd7845d286)
 
 
 <br>
